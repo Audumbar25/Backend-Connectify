@@ -1,5 +1,5 @@
 
-# Connectify
+# Connectify - A Backend Application 
 
 Connectify is a contact management application with user authentication. It allows users to manage their contacts securely, with operations like creating, reading, updating, and deleting contacts.
 
